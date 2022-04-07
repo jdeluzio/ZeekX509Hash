@@ -1,1 +1,1 @@
-@load ./main.bro
+@load ./main.zeek
